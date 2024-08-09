@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+torch
+numpy
+matplotlib
+transformers
+Pillow
+supervision
+dataclasses-json
+roboflow
+git+https://github.com/facebookresearch/segment-anything.git
+torchvision
